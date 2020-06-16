@@ -2,7 +2,7 @@ import junit.framework.Assert.assertEquals
 import org.junit.Test
 
 class MovieTicketPurchaseAcceptanceTest {
-    private var purchase = MovieTicketPurchase()
+   /* private var purchase = MovieTicketPurchase()
     private var receipt: Double = 0.0
 
     @Test
@@ -290,6 +290,6 @@ class MovieTicketPurchaseAcceptanceTest {
 
         assertEquals(346.50,
                 receipt)
-    }
+    }*/
 }
 
